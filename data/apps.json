@@ -96,6 +96,24 @@
     "description": "Xcode Source Editor Extension for 'Then'"
   },
   {
+    "name": "Cue",
+    "repo": "8starlabs/cue",
+    "category": "terminal",
+    "description": "IDE-style autocomplete for commands, options, Git branches, and files in zsh on Apple Terminal and VS Code’s integrated terminal"
+  },
+  {
+    "name": "Fan Curve",
+    "repo": "8thlyr/fan-curve",
+    "category": "system",
+    "description": "Open-source fan curve controller for Apple Silicon Macs that sets fan speed from CPU temperature"
+  },
+  {
+    "name": "Airbag",
+    "repo": "a1murt/airbag",
+    "category": "ai",
+    "description": "Open-source menu bar app that snapshots a project before each shell command an AI coding agent runs that can change files, so deleted files and a wiped .env can be restored in one click"
+  },
+  {
     "name": "Bolo",
     "repo": "a692570/bolo",
     "category": "menubar",
@@ -330,6 +348,12 @@
     "description": "A mac menu bar app that provides note taking functionality though a quick dropdown menu"
   },
   {
+    "name": "kwant",
+    "repo": "alexsergivan/kwant",
+    "category": "ai",
+    "description": "Self-hosted team of AI bots in one Rust binary, with spaces, local models, handoffs and approvals"
+  },
+  {
     "name": "MacOSCleaner",
     "repo": "AlexTkDev/MacOSCleaner",
     "category": "system",
@@ -408,6 +432,12 @@
     "description": "A cross-platform macro recorder, player, editor, and text expansion tool"
   },
   {
+    "name": "neatly",
+    "repo": "alpozaydin/neatly",
+    "category": "files",
+    "description": "AI file renamer that names downloads, screenshots and photos by their content, on-device with Apple Intelligence"
+  },
+  {
     "name": "JUMP",
     "repo": "alvaldes/jump",
     "category": "keyboard",
@@ -460,6 +490,12 @@
     "repo": "amirdew/CollectionViewPagingLayout",
     "category": "developer",
     "description": "A simple but powerful tool that helps you make complex layouts for UICollectionView"
+  },
+  {
+    "name": "Quarters",
+    "repo": "amithgc/quarters",
+    "category": "ai",
+    "description": "Open-source workspace for running terminal coding agents such as Claude Code, Codex, Gemini CLI and Aider across many projects at once, with one-click project switching, dev-server launching and remote access from your phone"
   },
   {
     "name": "Correo",
@@ -696,6 +732,12 @@
     "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)"
   },
   {
+    "name": "Kombucha",
+    "repo": "askuksov/kombucha",
+    "category": "system",
+    "description": "Menu bar battery charge limiter that stops charging at a chosen level to extend battery lifespan"
+  },
+  {
     "name": "Yabai",
     "repo": "asmvik/yabai",
     "category": "windows",
@@ -772,6 +814,12 @@
     "repo": "ayenora/screen-loupe",
     "category": "design",
     "description": "Open-source live magnifier that shows any part of the screen zoomed, pixel-true, in a separate window"
+  },
+  {
+    "name": "Sheer",
+    "repo": "AzurLiu/sheer",
+    "category": "menubar",
+    "description": "Brings the macOS 26-style transparent menu bar to macOS 15, letting the wallpaper show through with a faint legibility gradient"
   },
   {
     "name": "reventlou",
@@ -874,6 +922,12 @@
     "repo": "betaflight/betaflight-configurator",
     "category": "utilities",
     "description": "Cross platform configuration tool for the Betaflight firmware"
+  },
+  {
+    "name": "Usagebar",
+    "repo": "betoxf/Usagebar",
+    "category": "ai",
+    "description": "Free native macOS menu bar app that shows Claude Code, Codex, Cursor, Kimi Code, z.ai and DeepSeek usage limits, plus when they reset"
   },
   {
     "name": "PiPTool",
@@ -994,6 +1048,24 @@
     "repo": "Bouliw/earshot",
     "category": "menubar",
     "description": "Live on-device transcription of any app you pick, with speaker names in Microsoft Teams"
+  },
+  {
+    "name": "Roughcut",
+    "repo": "Bouliw/fcpxml-roughcut",
+    "category": "video",
+    "description": "Turns a folder of talking-head footage into a rough cut in Final Cut Pro, with on-device Whisper transcription and cuts chosen by a local or cloud AI model"
+  },
+  {
+    "name": "Takeline",
+    "repo": "Bouliw/takeline",
+    "category": "productivity",
+    "description": "Fork of Textream that follows your voice in French and English entirely on the Mac, with retake detection and voice commands"
+  },
+  {
+    "name": "Vigie",
+    "repo": "Bouliw/vigie",
+    "category": "security",
+    "description": "Open-source blue team tool that runs Sigma detection rules on the macOS unified log, Windows event logs and Linux auth.log, live or on collected files, and writes a report mapped to MITRE ATT&CK"
   },
   {
     "name": "nef",
@@ -1332,6 +1404,12 @@
     "description": "Unix epoch timestamp flip clock screensaver"
   },
   {
+    "name": "Cleaner",
+    "repo": "ciro-maciel/cleaner",
+    "category": "system",
+    "description": "Open-source cleaner that shows every item before removal, keeps its rules in one public file, and holds what you remove in a 7-day quarantine you can restore from"
+  },
+  {
     "name": "Screenshots",
     "repo": "ciro-maciel/screenshots",
     "category": "images",
@@ -1524,6 +1602,12 @@
     "description": "Voice assistant that lives by your cursor, sees your screen, and can control apps via the OpenAI Realtime API"
   },
   {
+    "name": "Brk",
+    "repo": "cyang2020/brk",
+    "category": "browsers",
+    "description": "Native Swift and AppKit rebuild of Arc on Chromium, with a Raycast-style command bar and AI that runs on your own Claude Code or Codex plan and local models"
+  },
+  {
     "name": "Depflush",
     "repo": "cypriennkeneng/depflush",
     "category": "system",
@@ -1534,6 +1618,12 @@
     "repo": "cyrus-cai/notchi",
     "category": "menubar",
     "description": "Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents"
+  },
+  {
+    "name": "Tendbar",
+    "repo": "DabuSoft-pl/tendbar",
+    "category": "ai",
+    "description": "Native menu bar app that shows which Claude Code sessions are done, waiting for you or failed, jumps back to the right terminal tab, and tracks usage limits for every account"
   },
   {
     "name": "Mactokio",
@@ -1740,6 +1830,12 @@
     "description": "Simple collaboration from your desktop"
   },
   {
+    "name": "DiskPilot",
+    "repo": "Devanshgoel-123/diskpilot",
+    "category": "system",
+    "description": "Free, open-source storage analyzer for developers that explains each folder (Docker, node_modules, Xcode DerivedData, AI tool caches), marks what is safe to delete and moves everything to the Trash first"
+  },
+  {
     "name": "iOS Images Extractor",
     "repo": "devcxm/iOS-Images-Extractor",
     "category": "developer",
@@ -1792,6 +1888,18 @@
     "repo": "diogosantos/WallpaperMenu",
     "category": "wallpapers",
     "description": "macOS menubar application for navigation through beautiful pictures on the web and set them up as your desktop image"
+  },
+  {
+    "name": "SoundLadder",
+    "repo": "dirkkredinger/SoundLadder",
+    "category": "menubar",
+    "description": "Menu bar app that picks the audio output from a ranked list and falls back to the next connected device automatically"
+  },
+  {
+    "name": "AI Access Auditor",
+    "repo": "dirmedmr-alt/ai-access-auditor",
+    "category": "security",
+    "description": "See and revoke what AI coding agents like Claude Code, Codex and Cursor can access on your Mac"
   },
   {
     "name": "Diffusion Bee",
@@ -1864,6 +1972,12 @@
     "repo": "DreamOfXM/diskwise",
     "category": "system",
     "description": "Disk cleaner that moves everything it removes to the Trash and keeps it undoable, covering app caches, node_modules, Xcode DerivedData and Docker usage"
+  },
+  {
+    "name": "TurboFieldfare",
+    "repo": "drumih/turbo-fieldfare",
+    "category": "ai",
+    "description": "Native ChatGPT-like Mac app running Google’s Gemma AI (26B-A4B MoE) privately on your device, even on low-end 8 GB M-series Macs"
   },
   {
     "name": "Ferrocast",
@@ -2502,12 +2616,6 @@
     "description": "The easiest way to get started with mongoDB on the Mac"
   },
   {
-    "name": "BitFun",
-    "repo": "GCWing/OpenBitFun",
-    "category": "ai",
-    "description": "Open-source AI agent that gives each task its own interactive workspace with chat linked to live state"
-  },
-  {
     "name": "Geany",
     "repo": "geany/geany",
     "category": "editors",
@@ -2560,6 +2668,24 @@
     "repo": "getguruhat/ai-meter",
     "category": "menubar",
     "description": "Shows your remaining Claude Code or Codex usage and reset time in the menu bar"
+  },
+  {
+    "name": "PC Mode",
+    "repo": "getguruhat/PCMode",
+    "category": "files",
+    "description": "Free app that brings Windows habits to your Mac: delete from Finder with the Delete key, cut and move files with ⌘X and ⌘V, and switch individual windows with ⌘Tab"
+  },
+  {
+    "name": "ServerHat",
+    "repo": "getguruhat/serverhat-macos",
+    "category": "developer",
+    "description": "Free menu-bar app that runs your local dev servers. Claude Code and Codex can start, stop and read logs through its MCP server and local API, with your approval"
+  },
+  {
+    "name": "TocaPad",
+    "repo": "getguruhat/tocapad-macos",
+    "category": "menubar",
+    "description": "Slide your trackpad's edges to change volume and brightness, and double-tap a corner to run a shortcut"
   },
   {
     "name": "Hopp",
@@ -2808,6 +2934,12 @@
     "description": "HandBrake is a video transcoder available for Linux, Mac, and Windows"
   },
   {
+    "name": "arowser",
+    "repo": "HankMonster/arowser",
+    "category": "developer",
+    "description": "Agent-programmable borderless web windows for macOS, driven by a CLI designed for coding agents"
+  },
+  {
     "name": "Mac Android Subsystem",
     "repo": "harkhowalia-1/MacSubsystemForAndroid",
     "category": "virtualization",
@@ -2856,6 +2988,12 @@
     "description": "Tool for building and distributing development environments"
   },
   {
+    "name": "WellSnap",
+    "repo": "hashtriton/wellsnap",
+    "category": "images",
+    "description": "Open-source screenshot tool for macOS and Windows with arrows, numbered callouts, and a blur that never uses the hidden pixels"
+  },
+  {
     "name": "Kawa",
     "repo": "hatashiro/kawa",
     "category": "keyboard",
@@ -2881,7 +3019,7 @@
   },
   {
     "name": "Voxt",
-    "repo": "hehehai/voxt",
+    "repo": "hehehai/VoxtMini",
     "category": "keyboard",
     "description": "Hold-to-talk voice input tool with AI transcription rules per app and URL, and built-in translation"
   },
@@ -2896,6 +3034,12 @@
     "repo": "henrywang/Berthly",
     "category": "virtualization",
     "description": "Native GUI for Apple's container tool, with menu bar monitoring and drag-and-drop image builds"
+  },
+  {
+    "name": "LocalSR",
+    "repo": "HerRei/local-upscale",
+    "category": "utilities",
+    "description": "Open-source app for upscaling, denoising and restoring photos and videos with local AI models"
   },
   {
     "name": "littleguys",
@@ -3040,6 +3184,12 @@
     "repo": "I7T5/Edmund",
     "category": "writing",
     "description": "Minimal, native macOS Markdown editor with live preview that works with your existing files, no vault"
+  },
+  {
+    "name": "Purr",
+    "repo": "iamarunbrahma/purr",
+    "category": "keyboard",
+    "description": "Open-source on-device dictation that types into any app with Parakeet or Whisper, plus meeting notes with speaker labels and summaries"
   },
   {
     "name": "Amethyst",
@@ -3250,6 +3400,12 @@
     "repo": "iterate-ch/cyberduck",
     "category": "files",
     "description": "Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox"
+  },
+  {
+    "name": "Daily Wallpaper",
+    "repo": "itsnajam/daily-wallpaper",
+    "category": "menubar",
+    "description": "Menu bar app that sets the Bing photo of the day as your desktop and lock screen wallpaper"
   },
   {
     "name": "Boop",
@@ -3594,6 +3750,18 @@
     "description": "Always opens the right browser"
   },
   {
+    "name": "Claude Accounts",
+    "repo": "jomonkj/claude-accounts",
+    "category": "menubar",
+    "description": "Switches the Claude desktop app between your accounts with one click, without losing sessions"
+  },
+  {
+    "name": "twistel",
+    "repo": "jonasnlt/twistel",
+    "category": "menubar",
+    "description": "Menu bar file converter: drag files, hold a key and drop them on a ring menu to convert images, audio, video and documents, compress, OCR, redact or sign PDFs, fully offline"
+  },
+  {
     "name": "Swivel",
     "repo": "jonathanlotan/Swivel",
     "category": "utilities",
@@ -3706,6 +3874,12 @@
     "repo": "jwise/HoRNDIS",
     "category": "system",
     "description": "Android USB tethering driver for macOS"
+  },
+  {
+    "name": "Vafa",
+    "repo": "k33ssa/vafa",
+    "category": "network",
+    "description": "Open-source VPN kill switch that freezes chosen apps and blocks their network until a VPN with an allowed exit country is up"
   },
   {
     "name": "Adrafinil",
@@ -4104,6 +4278,12 @@
     "description": "Lightning-fast and powerful code editor"
   },
   {
+    "name": "FixStat",
+    "repo": "Lapsely/fixstat",
+    "category": "system",
+    "description": "Menu bar monitor and diagnostics for Mac repair: per-model sensor names, battery cell data, SSD SMART including USB drives, panic history and guided hardware tests"
+  },
+  {
     "name": "OpenQuack",
     "repo": "larryxiao/openquack",
     "category": "menubar",
@@ -4272,12 +4452,6 @@
     "description": "Cross-platform development IDE"
   },
   {
-    "name": "Sunshine",
-    "repo": "LizardByte/Sunshine",
-    "category": "network",
-    "description": "Self-hosted game stream host for Moonlight"
-  },
-  {
     "name": "LMMS",
     "repo": "LMMS/lmms",
     "category": "video",
@@ -4428,6 +4602,12 @@
     "description": "AltTab brings the power of Windows alt-tab to macOS"
   },
   {
+    "name": "Trace",
+    "repo": "lxyeternal/Trace",
+    "category": "productivity",
+    "description": "Automatic time tracker that records apps, windows, files, and web pages, with all data kept on your Mac"
+  },
+  {
     "name": "Lyricism",
     "repo": "lyc2345/Lyricism",
     "category": "audio",
@@ -4528,6 +4708,12 @@
     "repo": "mafintosh/playback",
     "category": "video",
     "description": "Experimental video player. ![Freeware][Freeware Icon]"
+  },
+  {
+    "name": "Native Screen",
+    "repo": "maitrungduc1410/NativeScreen",
+    "category": "video",
+    "description": "Open-source screen recorder and editor with a multi-track timeline, auto-zoom, and on-device captions"
   },
   {
     "name": "CalmMouse",
@@ -4920,6 +5106,12 @@
     "description": "Catch: Broadcatching made easy"
   },
   {
+    "name": "MoMo Agent",
+    "repo": "Miri-Labs/MoMo-Agent",
+    "category": "ai",
+    "description": "Open-source, self-hosted 24/7 personal agent for Apple Watch, iPhone, and Mac with on-device CoreML ASR, embedded Tailscale, and an Obsidian-style Markdown memory vault"
+  },
+  {
     "name": "Easy Share Uploader",
     "repo": "Mirza-Aile/Easy-Share-Uploader",
     "category": "files",
@@ -5172,6 +5364,12 @@
     "description": "Privacy-focused VPN service with anonymous accounts and flat-rate access"
   },
   {
+    "name": "Louppe",
+    "repo": "murlexander/louppe-media-culler",
+    "category": "design",
+    "description": "Photo and video viewer and sorter for browsing JPEG, RAW, and video folders, choosing keepers with the keyboard, and copying them without a library import"
+  },
+  {
     "name": "MuseScore",
     "repo": "musescore/MuseScore",
     "category": "video",
@@ -5182,6 +5380,12 @@
     "repo": "mxpalm/AerialSwap",
     "category": "utilities",
     "description": "Turn any video into a native Aerial wallpaper for the lock screen and desktop, in its own group in System Settings"
+  },
+  {
+    "name": "Volant",
+    "repo": "mysticcoders/volant",
+    "category": "productivity",
+    "description": "Private, open-source launcher for apps, files, calculations, notes, clipboard history and coding agents"
   },
   {
     "name": "RustCast",
@@ -5320,6 +5524,12 @@
     "repo": "Nightonke/Gitee",
     "category": "git",
     "description": "Gitee, macOS status bar application for Github"
+  },
+  {
+    "name": "MacSweep",
+    "repo": "nihal4/macsweep",
+    "category": "system",
+    "description": "Free, open-source Mac cleaner written in Rust (~7 MB) for junk cleanup, large files, app uninstalling with leftovers and orphaned launch agents, with tests ensuring browser profiles, Mail and app data are never deleted"
   },
   {
     "name": "PSIBar",
@@ -5526,6 +5736,12 @@
     "description": "Extensible desktop mail app built on the modern web"
   },
   {
+    "name": "o8",
+    "repo": "o8-run/o8",
+    "category": "ai",
+    "description": "Open-source desktop app that reviews coding agents' work, sends it back until it passes, and merges it"
+  },
+  {
     "name": "BlockBlock",
     "repo": "objective-see/BlockBlock",
     "category": "security",
@@ -5640,6 +5856,12 @@
     "description": "Menu bar SSH agent that keeps keys in the Secure Enclave and gates every use behind Touch ID"
   },
   {
+    "name": "Dimmerly",
+    "repo": "olujicz/Dimmerly",
+    "category": "utilities",
+    "description": "Open-source menu bar app for per-display brightness, warmth, and contrast, with presets, schedules, and DDC/CI monitor control"
+  },
+  {
     "name": "Shotnix",
     "repo": "OMARVII/Shotnix",
     "category": "images",
@@ -5716,6 +5938,12 @@
     "repo": "onurgenes/Resizr",
     "category": "developer",
     "description": "MacOS application for creating AppIcon for iOS and Android apps"
+  },
+  {
+    "name": "BitFun",
+    "repo": "openBitFun/OpenBitFun",
+    "category": "ai",
+    "description": "Open-source AI agent that gives each task its own interactive workspace with chat linked to live state"
   },
   {
     "name": "OpenEmu",
@@ -5940,6 +6168,12 @@
     "description": "Display and watch your local movie and TV show library"
   },
   {
+    "name": "Cyberdog",
+    "repo": "pickywawa/cyberdog",
+    "category": "terminal",
+    "description": "SSH and SFTP client with a built-in terminal, a server health dashboard and FTP, S3 and WebDAV support"
+  },
+  {
     "name": "Kipimo",
     "repo": "piedol/kipimo",
     "category": "system",
@@ -6024,10 +6258,22 @@
     "description": "Open-source graphical tool for managing containers and Kubernetes"
   },
   {
+    "name": "BaseHalf",
+    "repo": "Pointa-Labs/basehalf",
+    "category": "ai",
+    "description": "Open-source desktop app that opens a folder as a canvas of notes, PDFs and media, with AI agents like Claude Code or Codex working on the same files beside it"
+  },
+  {
     "name": "Popcorn Time",
     "repo": "popcorntime/popcorntime",
     "category": "video",
     "description": "Streaming app for browsing and watching torrent-based movies"
+  },
+  {
+    "name": "AInnotator",
+    "repo": "porco-rs/ainnotator",
+    "category": "images",
+    "description": "Screenshot annotation tool that turns numbered marks, notes, and redactions into one self-explaining image to paste into Claude Code, Codex, or ChatGPT, including over SSH"
   },
   {
     "name": "Posnic",
@@ -6192,6 +6438,12 @@
     "description": "Native app that shows how much Claude Code, Codex, Cursor, Copilot and 70+ other AI coding services you have left, as rings docked at the edge of your screen"
   },
   {
+    "name": "Menew",
+    "repo": "Quost/menew",
+    "category": "menubar",
+    "description": "All-in-one menu bar app with a command palette, clipboard history, window snapping, screenshots, a system monitor, meeting minutes and Claude Code/Codex usage limits, using on-device AI"
+  },
+  {
     "name": "VimR",
     "repo": "qvacua/vimr",
     "category": "editors",
@@ -6244,6 +6496,12 @@
     "repo": "rana-gmbh/NetFluss",
     "category": "menubar",
     "description": "Native menu bar app for real-time upload/download speeds and top bandwidth-using apps"
+  },
+  {
+    "name": "Lafz Prompter",
+    "repo": "ranawaqas-ai/lafz-prompter",
+    "category": "menubar",
+    "description": "Teleprompter that sits under the MacBook notch, can hide from screen sharing, scrolls as you speak, and shows Urdu in Nastaliq"
   },
   {
     "name": "NetNewsWire",
@@ -6372,6 +6630,12 @@
     "description": "Digital darkroom and RAW developer with physically modelled film stock simulation"
   },
   {
+    "name": "LinkUnbound",
+    "repo": "rgdevment/LinkUnbound",
+    "category": "productivity",
+    "description": "Open-source browser picker that asks which browser or browser profile should open each link, with rules by site or by the app the link came from"
+  },
+  {
     "name": "rvc-mac",
     "repo": "riboseinc/cryptode-mac",
     "category": "network",
@@ -6432,10 +6696,22 @@
     "description": "Native, local-first network intelligence for macOS that turns live traffic and saved PCAP or PCAPNG captures into app-aware sessions"
   },
   {
+    "name": "LD Manager",
+    "repo": "roeehrl/ldmanager",
+    "category": "system",
+    "description": "Open-source launchd manager that shows every LaunchAgent and LaunchDaemon, explains why a job isn't running, and edits plists losslessly with diffs and backups"
+  },
+  {
     "name": "MacsyZones",
     "repo": "rohanrhu/MacsyZones",
     "category": "windows",
     "description": "Organize your windows with ease and boost your productivity"
+  },
+  {
+    "name": "SummonOS",
+    "repo": "RohiRIK/SummonOS",
+    "category": "ai",
+    "description": "Menu bar app and CLI that gives coding agents live Mac context over MCP and snapshots supported settings changes so they can be undone"
   },
   {
     "name": "QuotaBar",
@@ -6568,6 +6844,12 @@
     "repo": "s3onghyun/bulchimbeon",
     "category": "menubar",
     "description": "Menu bar app that keeps the Mac awake only while AI coding agents are working, with lid-closed mode and heat and battery safeguards"
+  },
+  {
+    "name": "VoiceStudio",
+    "repo": "saadmsft/VoiceStudio",
+    "category": "audio",
+    "description": "Real-time broadcast voice rack in Swift and CoreAudio with subtle pitch depth, sub-harmonic warmth, 6-band EQ, de-esser, and compressor for Discord, Zoom, Teams, and OBS"
   },
   {
     "name": "Atticus",
@@ -6706,6 +6988,12 @@
     "repo": "Schlaubischlump/LocationSimulator",
     "category": "developer",
     "description": "Application to spoof your iOS or iPhoneSimulator location"
+  },
+  {
+    "name": "Browserdoor",
+    "repo": "schowave/browserdoor",
+    "category": "productivity",
+    "description": "Open-source link picker that asks which browser, browser profile, or Zen space should open each link"
   },
   {
     "name": "SCM Breeze",
@@ -6948,6 +7236,12 @@
     "description": "Use the Touch Bar on any Mac"
   },
   {
+    "name": "MyPack",
+    "repo": "sinhong2011/mypack",
+    "category": "developer",
+    "description": "Turn websites into desktop apps for macOS, Windows, and Linux"
+  },
+  {
     "name": "ClashBar",
     "repo": "Sitoi/ClashBar",
     "category": "network",
@@ -6958,6 +7252,12 @@
     "repo": "sj719045032/claude-statistics",
     "category": "menubar",
     "description": "Native macOS menu bar app for monitoring Claude Code session usage, token costs, and Anthropic subscription limits in real time"
+  },
+  {
+    "name": "Back to Bug",
+    "repo": "skarpovdev/backtobug",
+    "category": "video",
+    "description": "Menu bar replay recorder that saves recent screen activity as video for bug reports"
   },
   {
     "name": "Skiff Mail",
@@ -7176,6 +7476,12 @@
     "description": "Local-first visual voyage map for preserving Codex and Claude Code sessions, branches, failures, decisions, and file changes"
   },
   {
+    "name": "LockPlus",
+    "repo": "steiale/lockplus",
+    "category": "network",
+    "description": "WireGuard and OpenVPN client with a kill switch that macOS itself enforces"
+  },
+  {
     "name": "CodexBar",
     "repo": "steipete/CodexBar",
     "category": "ai",
@@ -7276,6 +7582,12 @@
     "repo": "sunnyyoung/Suohai",
     "category": "audio",
     "description": "Audio input/output source lock for macOS"
+  },
+  {
+    "name": "Sunshine",
+    "repo": "SunshineStream/Sunshine",
+    "category": "network",
+    "description": "Self-hosted game stream host for Moonlight"
   },
   {
     "name": "Super Productivity",
@@ -7522,6 +7834,12 @@
     "repo": "TheDynamicPunk/Convoy",
     "category": "downloads",
     "description": "Open-source download manager with segmented downloads, browser integration, and HLS and DASH stream support"
+  },
+  {
+    "name": "Noteriv",
+    "repo": "thejacedev/Noteriv",
+    "category": "notes",
+    "description": "Open-source Markdown note-taking app with wiki-links, graph view, plugins, Git/WebDAV sync and a built-in MCP server for AI assistants"
   },
   {
     "name": "Corectl App for macOS",
@@ -7794,6 +8112,18 @@
     "description": "Notebook viewer for macOS"
   },
   {
+    "name": "Lumela",
+    "repo": "tw4/lumela",
+    "category": "images",
+    "description": "Cross-platform screenshot tool that blurs emails, card numbers, IPs and API keys with on-device OCR, then beautifies the shot"
+  },
+  {
+    "name": "MiaoYan",
+    "repo": "tw93/MiaoYan",
+    "category": "notes",
+    "description": "Native Markdown notes app that keeps notes as plain files in a folder you choose, with split preview, LaTeX, Mermaid and a presentation mode, also on iPhone and iPad"
+  },
+  {
     "name": "Mole",
     "repo": "tw93/Mole",
     "category": "system",
@@ -7930,6 +8260,12 @@
     "repo": "viarotel-org/escrcpy",
     "category": "productivity",
     "description": "📱 Graphical Scrcpy to display and control Android devices, powered by Electron"
+  },
+  {
+    "name": "LazyTune",
+    "repo": "Vic3z/LazyTune",
+    "category": "video",
+    "description": "Lightweight menu bar per-app audio mixer and universal media key controller for web browsers and desktop players"
   },
   {
     "name": "VLC",
@@ -8386,6 +8722,12 @@
     "repo": "yagcioglutoprak/dusty",
     "category": "menubar",
     "description": "Menu bar disk cleaner that only deletes from a fixed allowlist and shows every path and size before removing anything"
+  },
+  {
+    "name": "HistCite Mac",
+    "repo": "yangnim21029/histcite-mac",
+    "category": "writing",
+    "description": "Open-source bibliometric analysis and citation network visualization for Web of Science exports"
   },
   {
     "name": "Clippy",
